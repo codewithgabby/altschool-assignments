@@ -42,4 +42,4 @@ This project consists of two main pages:
 ## **How to View the Project**
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/assignment-1.git
+   git clone https://github.com/codewithgabby/assignment-1.git
