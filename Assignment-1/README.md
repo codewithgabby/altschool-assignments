@@ -36,10 +36,3 @@ This project consists of two main pages:
 ## **Technologies Used**
 - **HTML5**: For structuring the content of the pages.
 - **CSS3**: For styling the elements and creating a responsive design.
-
----
-
-## **How to View the Project**
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/codewithgabby/assignment-1.git
